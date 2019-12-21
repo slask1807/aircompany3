@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.beust:jcommander:1.72">
+    <archive path="C:/Users/58/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar" />
+  </library>
+  <library name="Maven: org.testng:testng:7.0.0-beta1">
+    <archive path="C:/Users/58/.m2/repository/org/testng/testng/7.0.0-beta1/testng-7.0.0-beta1.jar" />
+  </library>
+  <library name="junit">
+    <archive path="C:/Users/58/.m2/repository/com/beust/jcommander/1.72/jcommander-1.72.jar" />
+    <archive path="C:/Users/58/.m2/repository/junit/junit/3.8.2/junit-3.8.2.jar" />
+  </library>
+</eclipse-userlibraries>
+
